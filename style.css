@@ -1,0 +1,131 @@
+*,
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.conatiner {
+  width: 100%;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
+.container-field {
+  border: 1px solid black;
+  margin: 20px;
+  height: 100vh;
+  width: 640px;
+  padding: 40px;
+}
+
+.header {
+  font-size: 15px;
+  margin-bottom: 5px;
+}
+
+.sub-header1 {
+  color: #3daf00;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  font-size: 14px;
+}
+
+.identity {
+  margin-bottom: 10px;
+}
+
+.identity-field {
+  font-size: 15px;
+  padding: 2px;
+  margin-left: 5px;
+}
+.identity-field-num {
+  font-size: 15px;
+  padding: 2px;
+  margin-left: 3px;
+}
+
+.skill {
+  font-size: 14px;
+}
+
+.sub-header2 {
+  color: #3daf00;
+  margin-bottom: 5px;
+  margin-left: 5px;
+}
+
+.skill-field {
+  font-size: 15px;
+  margin-left: 5px;
+  margin-bottom: 10px;
+  line-height: 22px;
+}
+
+.education {
+  font-size: 14px;
+}
+
+.sub-header3 {
+  color: #3daf00;
+  margin-bottom: 5px;
+  margin-left: 5px;
+}
+
+.education-field {
+  font-size: 15px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+.education-field-header {
+  color: #006caf;
+  font-size: 15px;
+  margin-left: 5px;
+}
+
+.experience {
+  font-size: 14px;
+}
+
+.sub-header4 {
+  color: #3daf00;
+  margin-bottom: 5px;
+  margin-left: 5px;
+}
+
+.experience-field-header {
+  color: #006caf;
+  font-size: 15px;
+  margin-left: 5px;
+}
+
+.experience-field-list {
+  margin-left: 30px;
+  padding-left: 1px;
+}
+
+.experience-field {
+  font-size: 15px;
+  margin-left: 5px;
+  line-height: 30px;
+}
+
+.social {
+  font-size: 14px;
+}
+
+.sub-header5 {
+  color: #3daf00;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+
+.social-field {
+  font-size: 15px;
+  margin-left: 5px;
+}
