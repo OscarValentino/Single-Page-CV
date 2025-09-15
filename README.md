@@ -1,1 +1,1 @@
-https://github.com/OscarValentino/Single-Page-CV
+https://oscarvalentino.github.io/Single-Page-CV/index.html
